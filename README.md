@@ -29,12 +29,12 @@ Check out my work:
 
 ## 🔹 Contact
 - GitHub: [github.com/roshan21k](https://github.com/roshan21k)
-- LinkedIn: [Your LinkedIn Link](#)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Link](https://www.linkedin.com/in/roshan-k-181763321/)
+- Email: [your-email@example.com](mailto:k.roshan21k@gmail.com)
 
 ---
 
-📄 **[Download My CV](assets/YourName-CV.pdf)**
+📄 **[Download My CV](assets/Resume.pdf)**
 
 ---
 
